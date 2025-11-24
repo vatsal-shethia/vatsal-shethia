@@ -1,43 +1,44 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fintech+Engineer;Backend+Developer;System+Design+Lover;Turning+ideas+into+reliable+systems&center=true&width=600&height=45&color=00D1FF" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fintech+Engineer;Full+Stack+Developer;Backend+Architect;Turning+Ideas+Into+Scalable+Systems&center=true&width=650&height=45&color=00D1FF" />
 </p>
 
 <!-- Big Name -->
 <h1 align="center">Hi, I'm <span style="color:#00D1FF">Vatsal Shethia</span> 👋</h1>
 
-<p align="center">Engineering scalable, secure, and fast systems—fintech style ✨</p>
+<p align="center">Engineering scalable, secure, modern systems with a fintech-first mindset ✨</p>
 
 ---
 
 ## 🏦 About Me  
-- Passionate about **fintech**, distributed systems & backend architecture  
-- Love building **high-reliability** systems  
-- Keen on **fraud detection, transaction flows, event-driven infra**  
-- Always leveling up in performance, scalability & clean code  
+- Focused on **backend engineering**, **fintech systems**, and **distributed architectures**  
+- Experienced with **MERN stack**, **Python**, and **transaction-heavy systems**  
+- Love building **clean, reliable, and low-latency** software  
+- Work with **Docker**, **Redis**, **SQLAlchemy**, **Flask**, and performance-driven APIs  
+- Enjoy designing **event-driven flows**, **fraud logic**, and **data-centric backend services**
 
 ---
 
-## 💸 Tech Stack (Fintech Edition)
+## 💻 Tech Stack (Fintech x Fullstack)
 
 ### 🔧 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
-### 🛠️ **Frameworks & Tools**
+### 🛠️ **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flask,fastapi" />
 </p>
 
-### ☁️ **Cloud / DevOps**
+### 🗄️ **Databases & Caching**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,redis" />
 </p>
 
-### 🗄️ **Databases & Infra**
+### 🚀 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,tailwind,bootstrap" />
 </p>
 
 ---
@@ -55,11 +56,6 @@
 ## 📈 GitHub Performance Dashboard  
 
 <p align="center">
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vatsal-shethia&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vatsal-shethia&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
@@ -72,10 +68,11 @@
 
 ## 🧠 What I Love Working On  
 - Real-time financial systems  
-- Event-driven architecture  
-- Payment gateways & routing  
-- Secure backend engineering  
-- High-performance APIs  
+- Event-driven architectures  
+- Fraud detection logic  
+- High-performance backend APIs  
+- Distributed systems fundamentals  
+- Payment flows & transaction routing  
 
 ---
 
@@ -93,7 +90,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Fintech+Systems;Crafting+Reliable+Backends;Engineering+With+Precision&center=true&width=500&height=45&color=00E5FF" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Fintech+Systems;Crafting+Reliable+Backends;Engineering+With+Precision&center=true&width=600&height=45&color=00E5FF" />
 </p>
 
 <p align="center"><i>Code. Finance. Reliability.</i></p>
