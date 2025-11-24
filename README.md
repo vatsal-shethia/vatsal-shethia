@@ -53,6 +53,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsal-shethia&theme=react-dark&bg_color=1a1b27&color=00D1FF&line=00D1FF&point=0A0AFE&area=true&hide_border=true&custom_title=Transaction%20Logs%20(Commit%20Activity)" />
+</p>
+
+---
+
 ## 📈 GitHub Performance Dashboard  
 
 <p align="center">
