@@ -6,7 +6,7 @@
 <!-- Big Name -->
 <h1 align="center">Hi, I'm <span style="color:#00D1FF">Vatsal Shethia</span> 👋</h1>
 
-<p align="center">Engineering scalable, secure, modern systems with a fintech-first mindset ✨</p>
+<p align="center">Engineering scalable, secure, modern systems with a fintech-first mindset </p>
 
 ---
 
