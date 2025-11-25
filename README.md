@@ -38,7 +38,7 @@
 
 ### 🚀 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=docker,tailwind,postman,bootstrap" />
 </p>
 
 ---
