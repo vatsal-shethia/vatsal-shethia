@@ -52,42 +52,59 @@ Full-Stack Developer focused on backend engineering, scalable APIs, and data-dri
 
 ## 📌 Featured Projects
 
-### 💳 AI Deal Insights Manager
-AI-powered system that analyzes deals and generates insights using backend pipelines and scalable APIs.
+## 📌 Featured Projects
 
-**Tech:** Python, FastAPI, Vector Search, RAG pipeline, PostgreSQL
+### 📊 Deal Insights Dashboard
+AI-powered platform that analyzes financial deal documents (PDF/CSV) and generates investor-grade insights.
 
-Key ideas:
-- AI-driven data analysis
-- modular backend services
-- scalable API design
+🔗 **Repository:** https://github.com/vatsal-shethia/deal-insights-dashboard  
+🌐 **Live Demo:** https://deal-insights-frontend-rust.vercel.app
 
----
+**Key Features**
+- Parses complex financial reports and extracts structured metrics
+- Computes valuation ratios like **EV/EBITDA, profit margins, leverage**
+- **Gemini-powered AI analysis** providing deal signals (Attractive / Neutral / Cautious)
+- Head-to-head **deal comparison engine**
+- Natural language **AI chat assistant** for financial queries
 
-### 🚗 Vehicle Parking System
-Full-stack system for managing parking lots, spot allocation, and real-time parking status.
+**Tech Stack**
 
-**Tech:** Flask, SQLAlchemy, Bootstrap, SQLite
-
-Features:
-- Admin dashboard
-- Spot management
-- Vehicle tracking
-- REST-based backend
+`React` `Node.js` `Express` `Gemini AI` `Tailwind` `pdf-parse` `csv-parser`
 
 ---
 
-### 🌐 Developer Social Platform (WIP)
-A platform where developers can share projects, code snippets, and explore technical content.
+### 🔐 NLP-Powered CVE Analysis & Similarity Search
+A cybersecurity intelligence platform for analyzing **Common Vulnerabilities and Exposures (CVEs)** using NLP and vector search.
 
-**Tech:** React, Node.js, MongoDB
+🔗 **Repository:** https://github.com/vatsal-shethia/nlp-cve-analysis
 
-Features:
-- Infinite scrolling explore feed
-- Project-based posts
-- Developer-focused UI
+**Key Features**
+- Interactive **Plotly dashboard** for vulnerability metrics and trends
+- **LLM-generated summaries** explaining exploitability and impact
+- **Semantic similarity search** using vector embeddings in Pinecone
+- Automated **data pipeline from NVD → preprocessing → database storage**
+- Fast vulnerability lookup using CVE identifiers
+
+**Tech Stack**
+
+`Python` `Flask` `MongoDB Atlas` `Pinecone` `Sentence Transformers` `LLaMA 3.1 (Groq)` `Tailwind` `Plotly`
 
 ---
+
+### 💸 Vexlar AI Expense Manager
+AI-assisted expense tracking system designed to provide intelligent insights into personal spending patterns.
+
+🔗 **Repository:** https://github.com/vatsal-shethia/vexlar-ai-expense-manager
+
+**Key Features**
+- Smart categorization of expenses using AI
+- Financial dashboards showing **spending trends and insights**
+- Backend APIs designed for scalable transaction tracking
+- Budget monitoring and automated expense summaries
+
+**Tech Stack**
+
+`Node.js` `Express` `React` `MongoDB` `AI APIs`
 
 ## 📈 GitHub Activity
 
